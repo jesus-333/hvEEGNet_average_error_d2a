@@ -1,0 +1,10 @@
+This files contains the wasserstrain distance computed with the data of dataset 2a of BCI Competition IV.
+The distribution used is the one created by the latent space of hvEEGNet
+
+We first encode the train data (i.e. the data of a single specific subject used to train our model).
+Then we computed the distance between this projecton on the latent space and the projecton of the data of other subjects.
+Session 1 refers to the train data of the other subjects.
+Session 2 refers to the test data of the other subjects.
+
+In the mu folder the distance is computed between the the mean of the distribution (i.e. since z is a guassian distribution mu is the array of the mean)
+In the latent_space_samples the distance is computed from the sample of the distribution (i.e. p(z|x))
