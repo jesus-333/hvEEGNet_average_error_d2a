@@ -8,3 +8,4 @@ Session 2 refers to the test data of the other subjects.
 
 In the mu folder the distance is computed between the the mean of the distribution (i.e. since z is a guassian distribution mu is the array of the mean)
 In the latent_space_samples the distance is computed from the sample of the distribution (i.e. p(z|x))
+In the raw_data folder the distance is computed from the raw data
