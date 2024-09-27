@@ -1,0 +1,14 @@
+Train
+	rep 1 (all subject)
+	rep 2 (all subject)
+	rep 4 (S1, S2, S3
+	rep 5 (all subject)
+	rep 6 (S1, S2, S3
+	rep 7 (S1, S2, S3, S4, S5, S6, S7, S8
+	rep 8 (S1, S2, S3, s4, s5, S6
+	rep 9 (S1, S2, S3, s4, s5, S6
+	rep 10 (S1, S2, S3, s4, S5, S6, S7, S8
+	rep 11 (S1, S2, S3, s4, S5, S6, S7, S8
+	rep 12 (S1, S2, S3, s4, S5, S6, S7, S8
+	rep 13 (S1, S2, S3, s4, S5, S6, S7, S8
+	rep 15 (S1, S2, S3, s4, S5, S6, S7, S8
